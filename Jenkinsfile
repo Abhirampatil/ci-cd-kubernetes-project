@@ -1,3 +1,18 @@
+// Jenkinsfile is the pipeline's instruction file.tells Jenkins which stages to execute and which commands to run.) hence orchestarte
+// The full CI/CD pipeline is here the jenkins orchestarte the whole flow (like downlaoding the latest repo code --> build docker image --> push docker image --> deploy to kubernetes--> verify deployment --> ) all of this stage-wise 
+
+// Jenkins responsibilities ? :
+// Trigger handling (Starts a pipeline when the GitHub webhook triggers the configured job.)
+// source check out (Retrieves the repository contents from the configured main branch.)
+// Image building
+// Image versioning
+// Registry publishing
+// Deployment
+// Deployment
+// Reporting
+
+// Important distinction: Github webhook triggers jenkins --> Jenkins runs the pipeline
+
 pipeline {
     agent any
 

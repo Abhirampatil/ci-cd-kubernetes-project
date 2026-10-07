@@ -5,3 +5,5 @@ k8s
 Jenkinsfile
 Dockerfile
 *.md
+infra
+scripts
