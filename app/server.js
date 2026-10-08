@@ -18,7 +18,7 @@ app.get("/", (req, res) => {
     body { font-family: Arial, sans-serif; background: #0f172a; color: #e2e8f0;
            display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0; }
     .card { background: #1e293b; padding: 40px 60px; border-radius: 12px; text-align: center; }
-    h1 { color: #10e74d; }
+    h1 { color: #1058e7; }
     code { background: #0f172a; padding: 4px 10px; border-radius: 6px; }
   </style>
 </head>
