@@ -6,3 +6,4 @@ README.MD
 *.tfstate
 *.tfstate.*
 terraform.tfvars
+notes

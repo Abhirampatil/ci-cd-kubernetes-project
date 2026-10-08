@@ -71,10 +71,3 @@ git push origin main
 
 
 
-TODO:
-Fine grained
-
-
-to fix the error 
-Add "ec2:DescribeInstanceTypes" to the IAM policy and save it.
-then continue from STEP 5 again
