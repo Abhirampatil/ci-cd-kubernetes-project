@@ -1,6 +1,7 @@
 node_modules/
 .env
 *.log
+README.MD
 .terraform/
 *.tfstate
 *.tfstate.*
