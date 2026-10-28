@@ -19,7 +19,7 @@ app.get("/", (req, res) => {
            display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0; }
     .card { background: #1e293b; padding: 40px 60px; border-radius: 12px; text-align: center; }
     h1 { color: #2aff8d; }
-    code { background: #0f172a; padding: 4px 10px; border-radius: 6px; }
+    code { background: #59037d; padding: 4px 10px; border-radius: 6px; }
   </style>
 </head>
 <body>
